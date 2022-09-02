@@ -1,0 +1,14 @@
+{
+  "name": "connect_it",
+  "version": "1.0.0",
+  "description": "this is a social media website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chirayu humar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
